@@ -1,2 +1,6 @@
 # Bg-color-change-with-js
 Background Color Change with Javasctipt.....
+in
+1) click 1st box and select color
+2) Click the Button click
+3) Then see magic Boom......
