@@ -1,0 +1,44 @@
+/* css code write and modify here */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "ZCOOL KuaiLe", cursive;
+}
+.mainDiv {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+.centerDiv {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 5px solid #222;
+  border-radius: 10px;
+  background: #222;
+  padding: 30px;
+}
+.inputField {
+  padding: 44px 70px 41px 70px;
+  margin-top: 20px;
+}
+.btn {
+  padding: 18px 40px 25px 40px;
+  border-radius: 10px;
+}
+.btn,
+.inputField {
+  border: 2px solid #fff;
+  background: transparent;
+  border-radius: 10px;
+}
+.btn,
+h1 {
+  color: #fff;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 900;
+}
+
